@@ -141,3 +141,11 @@ dmypy.json
 /output
 z006_grad_dec_sol.ipynb
 
+*.h5
+logging/
+logs/
+model_path/
+/logging
+/logs
+/model_path
+back/
